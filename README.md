@@ -1,4 +1,4 @@
-<header>
+# I just used one "#" character <header>
 
 <!--
   <<< Author notes: Course header >>>
