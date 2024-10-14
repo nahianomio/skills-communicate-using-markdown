@@ -72,7 +72,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+## I just used "#" to change texts to header.
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
