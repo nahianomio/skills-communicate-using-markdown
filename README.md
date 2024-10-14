@@ -2,8 +2,8 @@
 
 <!--
   <<< Author notes: Course header >>>
- # Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
- ## In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+ Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+ In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
 
@@ -51,7 +51,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 
-### :keyboard: Activity: Edit your file with headers
+#### :keyboard: Activity: Edit your file with headers
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
